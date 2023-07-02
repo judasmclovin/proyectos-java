@@ -1,0 +1,31 @@
+Enunciado: Sistema de Registro de Estudiantes
+
+Eres un desarrollador de software en una institución educativa y se te ha asignado la tarea de crear un sistema de registro de estudiantes. El sistema debe permitir el registro de estudiantes, almacenar su información personal y académica, y proporcionar funcionalidades básicas para administrar los datos de los estudiantes.
+
+Requisitos del proyecto:
+
+El sistema debe permitir registrar nuevos estudiantes con la siguiente información:
+
+Nombre completo
+Edad
+Género
+Dirección de correo electrónico
+El sistema debe asignar automáticamente un número de identificación único a cada estudiante registrado.
+
+Los estudiantes deben poder actualizar su información personal, incluyendo su dirección de correo electrónico.
+
+El sistema debe permitir buscar estudiantes por su número de identificación o por su nombre completo.
+
+El sistema debe permitir mostrar una lista de todos los estudiantes registrados, mostrando su número de identificación y nombre completo.
+
+El sistema debe permitir eliminar estudiantes del registro.
+
+Tu tarea es desarrollar este sistema de registro de estudiantes en Java. A continuación, se proporcionan algunas pautas para ayudarte a comenzar:
+
+Crea una clase Estudiante con los campos necesarios para almacenar la información personal de un estudiante.
+
+Implementa una clase RegistroEstudiantes que contenga una lista (por ejemplo, un ArrayList) para almacenar los objetos Estudiante. Esta clase debe tener métodos para agregar, buscar, actualizar y eliminar estudiantes.
+
+Crea una clase Main que contenga el punto de entrada del programa. Aquí podrás interactuar con el usuario y realizar operaciones en el registro de estudiantes.
+
+Utiliza estructuras de control (como bucles y condicionales) para manejar las diferentes opciones y acciones del sistema.
